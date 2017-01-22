@@ -41,10 +41,6 @@ package InstallCertKeystore;
 /**
  * Originally from:
  * http://blogs.sun.com/andreas/resource/InstallCert.java
- * Use:
- * java InstallCert hostname
- * Example:
- *% java InstallCert ecc.fedora.redhat.com
  */
 
 import javax.net.ssl.*;
