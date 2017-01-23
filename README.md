@@ -1,7 +1,7 @@
  * Orginal Code from : http://blogs.sun.com/andreas/resource/InstallCert.java
 -----------------------------------------------------------------------------
 Additional functions added by mirac cicek :
- * - Choose current keystore director.
+ * - Choose current keystore directory.
  * - Select keystore (jsssecacers or cacerts)   
  * - Copy modified store to the selected security directory. 
  * - input keystore passphrase  
